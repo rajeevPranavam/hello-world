@@ -1,2 +1,2 @@
 # hello-world
-The first hello world application
+The hello world application is the first application trials normally.
